@@ -1,0 +1,4 @@
+repository "VRVedioPlayer@liusheng0@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

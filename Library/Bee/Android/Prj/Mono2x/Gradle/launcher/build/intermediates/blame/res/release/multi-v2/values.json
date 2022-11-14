@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\13518\\unity\\demo0\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\13518\\unity\\demo0\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\13518\\unity\\demo0\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "47,-1",
+                        "endOffsets": "100,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,406",
+                        "endColumns": "49,67",
+                        "endOffsets": "401,469"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\13518\\unity\\demo0\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,12,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "474,574,712",
+                        "endLines": "11,14,18",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "569,707,934"
+                    }
+                }
+            ]
+        }
+    ]
+}
